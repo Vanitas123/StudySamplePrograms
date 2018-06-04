@@ -1,6 +1,7 @@
 package examples.vanita.programs;
 
 //http://codepumpkin.com/program-check-whether-number-prime-not/
+//a number that is divisible only by itself and 1 (e.g. 2, 3, 5, 7, 11).//
 public class PrimeNumber {
 
 	public static boolean isPrimeNaive(int n) {
